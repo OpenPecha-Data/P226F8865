@@ -1,0 +1,32 @@
+id: P226F8865
+initial_creation_type: input
+source_metadata:
+  title: Testament Series
+  language: en
+  description: 'The following texts are currently available as part of our Testament
+    series:'
+  volume:
+    297058beddcf4e0884684625b2332172:
+      title: The Noble Sūtra Teaching the Eleven Perceptions
+      parent: Advice
+    b0fd4c513d6a49809830285712abfbcc:
+      title: 'Final Words: The Essential Advice'
+      parent: Advice
+    ab04395ad89b47e8af3994e674f1fe04:
+      title: The Final Testament of Yukhok Chatralwa as Transmitted to Lama Rigdzin
+        Nyima
+      parent: Advice
+    7774b94fe6e9420087334f16f85f0ec1:
+      title: The Last Testament of Katok Dampa Deshek
+      parent: Aspiration Prayers
+    87ec5e9b49b8437da594f8c3af6e33ef:
+      title: On the Final Words of Orgyen Tendzin Norbu
+      parent: Commentary
+    7ad5f1e6165c433986896d66d2f258dd:
+      title: The Testament Prayer to Orgyen Rinpoche
+      parent: Prayers
+    8f6b853b953f4cfe908e93561695ba1a:
+      title: Words Spoken at the Moment of Passing
+      parent: Prayers
+created_at: '2022-03-01T06:19:46.816320'
+last_modified_at: '2022-03-01T06:19:46.816326'
